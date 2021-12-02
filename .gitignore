@@ -1,4 +1,7 @@
 # created by virtualenv automatically
+pyenv.cfg
+bin/
+lib/
 
 # Django #
 *.log
